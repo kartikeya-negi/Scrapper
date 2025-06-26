@@ -24,7 +24,7 @@ WebHarvestor is a Python-based web scraping tool designed to extract data effici
 ### Installation
 
 1. **Clone the repository:**
-git clone https://github.com/yourusername/WebHarvestor.git
+git clone https://github.com/kartikeya-negi/WebHarvestor
 cd WebHarvestor
 
 
